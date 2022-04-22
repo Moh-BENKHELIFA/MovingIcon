@@ -16,7 +16,9 @@ int main(int argc, char *argv[])
 
     }
 
-    rp1.data();
+   // rp1.data();
+    std::cout<<"Hello World"<<std::endl ;
+
 
     return a.exec();
 
