@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IRIT.png</file>
+        <file>EIT.jpeg</file>
+    </qresource>
+</RCC>
